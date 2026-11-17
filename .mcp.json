@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "mamba-google-sheets-import-export": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@mambalabsdev/mcp-google-sheets-import-export"
+      ],
+      "env": {
+        "APIFY_TOKEN": "your-apify-token"
+      }
+    }
+  }
+}

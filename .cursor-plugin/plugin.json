@@ -1,0 +1,31 @@
+{
+  "name": "mcp-google-sheets-import-export",
+  "displayName": "Google Sheets Import and Export",
+  "version": "1.0.0",
+  "description": "MCP server for Google Sheets Import and Export. Read a Google Sheet into rows or write rows into a sheet, on your own Google credentials. Runs on Apify.",
+  "author": {
+    "name": "Mamba Labs",
+    "email": "labs@mambamindsetgrowth.com"
+  },
+  "homepage": "https://mambabuilt.com",
+  "repository": "https://github.com/mambalabsdev/mcp-google-sheets-import-export",
+  "license": "MIT",
+  "category": "productivity",
+  "tags": [
+    "google sheets",
+    "spreadsheet",
+    "export dataset",
+    "import csv",
+    "sheets api"
+  ],
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "google sheets",
+    "spreadsheet",
+    "export dataset",
+    "import csv",
+    "sheets api"
+  ],
+  "mcpServers": ".mcp.json"
+}
