@@ -1,7 +1,7 @@
 {
   "name": "mcp-google-sheets-import-export",
   "displayName": "Google Sheets Import and Export",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "MCP server for Google Sheets Import and Export. Read a Google Sheet into rows or write rows into a sheet, on your own Google credentials. Runs on Apify.",
   "author": {
     "name": "Mamba Labs",
